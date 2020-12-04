@@ -1,4 +1,4 @@
-body{
+ body{
     background-color: rgba(0,0,0,0.1);
 }
 .one, .two{
@@ -177,4 +177,7 @@ span title{
     -ms-transform: scale(1.2);
     transform: scale(1.2);
     transition-delay: 3s; 
+}
+.calculatesBtn{
+    display: flex;
 }
